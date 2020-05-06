@@ -1,0 +1,2 @@
+gui
+-DCATKIN_DEVEL_PREFIX=/home/pmessan/qt-gui/devel -DCMAKE_INSTALL_PREFIX=/home/pmessan/qt-gui/install -G Unix Makefiles
